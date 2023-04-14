@@ -10,7 +10,7 @@ class Sshpass < Formula
   def install
     system "./configure", "--disable-debug", "--disable-dependency-tracking",
                           "--prefix=#{prefix}"
-    system "make"," install"
+    system "make","install"
   end
 
   test do
