@@ -6,7 +6,7 @@
 
 ## To install sshpass
 
-```% brew install dewab/custom/sshpass ```
+```% brew install dewab/custom/sshpass```
 
 ## Package list
 
